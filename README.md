@@ -4,7 +4,7 @@
 I am a **Cloud DevOps Architect** and **Senior Cloud Engineer** with a focus on **Azure Cloud Solutions**. I specialize in **infrastructure automation** and **cloud security** using tools like **Terraform**, **Bicep**, **GitHub Actions** and **Azure DevOps**. With years of experience in cloud architecture, I am passionate about optimizing cloud infrastructures and streamlining DevOps processes.
 
 ### 🚀 What I Do
-- **Cloud Automation**: Automating deployments and infrastructure management for scalable, secure cloud environments.
+- **Cloud Automation & Architecture**: Automating deployments and infrastructure management for scalable, secure cloud environments.
 - **Infrastructure as Code (IaC)**: Writing IaC with **Bicep**, **Terraform**, and **Azure ARM Templates** to manage cloud resources.
 - **CI/CD Pipelines**: Setting up and maintaining continuous integration and deployment pipelines for rapid delivery.
 
