@@ -19,6 +19,6 @@ I am a **Cloud DevOps Architect** and **Senior Cloud Engineer** with a focus on 
 - **[Azure Infrastructure Automation](https://github.com/vashisth/azure-infrastructure-automation)**: Scripts for automating Azure cloud infrastructure using IaC principles.
 
 ### 🌐 Connect with Me
-- **LinkedIn**: [linkedin.com/in/vashisth]([https://www.linkedin.com/in/vashisth](https://www.linkedin.com/in/vashisth-bikhari/))
+- **LinkedIn**: [linkedin.com/in/vashisth](https://www.linkedin.com/in/vashisth-bikhari/)
 
 Feel free to explore my repositories and contribute to open-source projects!
