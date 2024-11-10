@@ -15,7 +15,7 @@ I am a **Cloud DevOps Architect** and **Senior Cloud Engineer** with a focus on 
 - **CI/CD**: GitHub Actions & Azure DevOps Pipelines
 
 ### 💼 Current Projects
-- **[GPG Signed Commits Setup Guide](https://github.com/vashisth/GPG-signed-commits-setup)**: A guide to help developers securely sign their Git commits using GPG, with both **manual** and **automated** setup instructions.
+- **[GPG Signed Commits Setup Guide](https://github.com/vashisth20/GPG-signed-commits-setup)**: A guide to help developers securely sign their Git commits using GPG, with both **manual** and **automated** setup instructions.
 - **[Azure Infrastructure Automation](https://github.com/vashisth/azure-infrastructure-automation)**: Scripts for automating Azure cloud infrastructure using IaC principles.
 
 ### 🌐 Connect with Me
