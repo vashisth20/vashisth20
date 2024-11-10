@@ -10,7 +10,7 @@ I am a **Cloud DevOps Architect** and **Senior Cloud Engineer** with a focus on 
 
 ### 🔧 Tools I Use
 - **Cloud Platforms**: Microsoft Azure
-- **Programming Languages**: Python, Shell, Bash, PowerShell
+- **Programming/Scripting Languages**: Python, Shell, Bash, PowerShell
 - **IaC Tools**: Terraform & Bicep
 - **CI/CD**: GitHub Actions & Azure DevOps Pipelines
 
