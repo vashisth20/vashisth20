@@ -1,7 +1,7 @@
 # Hi, I'm Vashisth 👋
 
 ## About Me
-I am a **Cloud DevOps Architect** and **Senior Cloud Engineer** with a focus on **Azure Cloud Solutions**. I specialize in **infrastructure automation** and **cloud security** using tools like **Terraform**, **Bicep**, **GitHub Actions** and **Azure DevOps**. With years of experience in cloud architecture, I am passionate about optimizing cloud infrastructures and streamlining DevOps processes.
+I am a **Cloud DevOps Architect** and **Senior Cloud Engineer** with a focus on **Azure Cloud Solutions**. I specialize in **infrastructure automation** and **cloud security** using tools like **Terraform**, **Bicep**, **GitHub Actions** and **Azure DevOps**. With years of experience in cloud architecture, I am passionate about optimizing cloud infrastructures and streamlining DevSecOps processes.
 
 ### 🚀 What I Do
 - **Cloud Automation & Architecture**: Automating deployments and infrastructure management for scalable, secure cloud environments.
