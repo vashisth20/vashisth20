@@ -16,7 +16,7 @@ I am a **Cloud DevOps Architect** and **Senior Cloud Engineer** with a focus on 
 
 ### 💼 Current Projects
 - **[GPG Signed Commits Setup Guide](https://github.com/vashisth20/GPG-signed-commits-setup)**: A guide to help developers securely sign their Git commits using GPG, with both **manual** and **automated** setup instructions.
-- **[Azure Infrastructure Automation](https://github.com/vashisth20/azure-infrastructure-automation)**: Scripts for automating Azure cloud infrastructure using IaC principles.
+- **[CI/CD Pipelines](https://github.com/vashisth20/ci-cd-pipelines)**: This repository contains a collection of CI/CD workflows and templates to automate deployments for various use cases.
 
 ### 🌐 Connect with Me
 - **LinkedIn**: [linkedin.com/in/vashisth](https://www.linkedin.com/in/vashisth-bikhari/)
